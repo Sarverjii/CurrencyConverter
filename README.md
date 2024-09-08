@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Currency Converter App allows users to convert amounts between different currencies. It supports conversion rates to and from Indian Rupees (INR) and includes popular currencies such as USD, Yen, and Euro. The app features a clean and modern UI, and it supports both light and dark themes.
+The Currency Converter App allows users to convert amounts between different currencies. It supports conversion rates to and from Indian Rupees (INR) and includes popular currencies such as USD, Yen, and Euro. The app features a clean and modern UI.
 
 ## Screenshots
 
@@ -35,13 +35,13 @@ To get started with the Currency Converter App, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Sarverjii/CurrencyConverter.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd your-repository
+   cd CurrencyConverter
    ```
 
 3. **Install dependencies:**
